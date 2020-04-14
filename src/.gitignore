@@ -1,0 +1,8 @@
+
+# objects 
+*.o
+
+# binaries
+cuda_test
+vector_*
+
